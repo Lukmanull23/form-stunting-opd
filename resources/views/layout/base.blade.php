@@ -83,6 +83,30 @@
                     <span>Form Diskominfo</span></a>
             </li>
 
+            <li class="nav-item">
+                <a class="nav-link" href="{{ url('form/bappelitbang') }}">
+                    <i class="fas fa-fw fa-clipboard"></i>
+                    <span>Form Bappelitbang</span></a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="{{ url('form/kemenag') }}">
+                    <i class="fas fa-fw fa-clipboard"></i>
+                    <span>Form Kemenag</span></a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="{{ url('form/bpom') }}">
+                    <i class="fas fa-fw fa-clipboard"></i>
+                    <span>Form BPOM</span></a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="{{ url('form/Dppkb') }}">
+                    <i class="fas fa-fw fa-clipboard"></i>
+                    <span>Form DPPKB</span></a>
+            </li>
+
             <!-- Divider -->
             <hr class="sidebar-divider d-none d-md-block">
 
